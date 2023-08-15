@@ -42,7 +42,7 @@ body{
     width: 1440px;
     height: 710px;
     /* clip-path: polygon(1440px 0, 1440px 490px, 0 600px, 0 200px, 0 0); */
-    background-image: url("img/mps.jpg");
+    background-image: url("img/car1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
